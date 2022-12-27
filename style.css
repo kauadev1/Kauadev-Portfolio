@@ -184,3 +184,41 @@ button a{
 .projeto-cordel-titulo{
   padding: 15px 0px 15px 0px;
 }
+
+.habilidades{
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 200px;
+}
+
+footer{
+  background-color: var(--cor-header-footer);
+}
+
+#rodape{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.instagram{
+  padding-top: 10px;
+}
+.linkedin{
+  padding-top: 10px;
+}
+
+.email{
+  padding-top: 10px;
+  padding-right: 10px;
+}
+
+.telegram{
+  padding-top: 10px;
+  padding-left: 3px;
+}
+
+.whattsapp{
+  padding-top: 6px;
+  padding-left: 2px;
+}
