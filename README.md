@@ -1,4 +1,4 @@
 # Kauadev-Portfolio
  Meu portfolio
 
-<a href="https://kauadev1.github.io/Kauadev-Portfolio/" target="_blank">Abra meu Portfólio</a>
+<a target="_blank" href="https://kauadev1.github.io/Kauadev-Portfolio/">Abra meu Portfólio</a>
