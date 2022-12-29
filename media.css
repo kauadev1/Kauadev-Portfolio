@@ -1,27 +1,48 @@
 @media screen and (max-width: 760px){
+
   header{
-    flex-direction: column;
-    display: flex;
-    gap: -5px;
-    padding: 50px;
-    text-align: center;
-    align-items: center;
+  padding-left: 10%;
+  margin-bottom: -15vh;
   }
 
 nav{
-  margin-right: -100px;
+  margin-right: -13vh;
+  display: none;
 }
 
-ul{
-  background-color: #162340;
+main{
+  display: flex;
+  margin-top: -50px;
 }
-  li{
-    margin-right: 1em;
-  }
-  
+
+.projeto-titulo{
+  margin-bottom: -250px;
+}
+
+section > article{
+  margin-left: -5vh;
+}
+
   .imagem{
     display: none;
   }
 
+  section{
+    flex-direction: column;
+    padding-left: 6vh;
+  }
+
+  .telegram{
+    display: none;
+  }
+  
+  .whattsapp{
+    display: none;
+  }
+  
+  .linkedin{
+    padding-right: 5px;
+  }
 }
+
 

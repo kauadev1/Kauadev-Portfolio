@@ -119,7 +119,14 @@ article{
   padding-top: 200px;
 }
 
-div > h2{
+div#projetos{
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+
+h2{
   color: white;
   text-align: center;
   font-family: var(--fonte-habilidades);
@@ -127,10 +134,15 @@ div > h2{
   font-weight: 400;
 }
 
+.projeto-titulo{
+  margin-top: 200px;
+  margin-bottom: -200px;
+}
+
 section{
   display: flex;
   padding-bottom: 200px;
-  padding-left: 180px;
+
 }
 
 section > article{
