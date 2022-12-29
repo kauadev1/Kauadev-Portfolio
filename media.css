@@ -17,6 +17,11 @@ main{
 
 .projeto-titulo{
   margin-bottom: -250px;
+  font-size: 35px;
+}
+
+.linha-projetos{
+  font-size: 17;
 }
 
 section > article{
